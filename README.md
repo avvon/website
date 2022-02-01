@@ -1,1 +1,1 @@
-# hosted at https://avvon.github.io/website/index.html
+# https://avvon.github.io/website/index.html
